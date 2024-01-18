@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KidsStory" parent="Theme.Material3.DayNight.NoActionBar">
+      <item name="android:statusBarColor">@color/blue</item>
+    </style>
+
+    <style name="Theme.KidsStory" parent="Base.Theme.KidsStory" />
+</resources>

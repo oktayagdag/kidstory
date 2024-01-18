@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#74c4e7</color>
+    <color name="darkblue">#0C4E83</color>
+    <color name="darkwhite">#F2F0F3</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="pembe">#e45f56</color>
+    <color name="yesil">#95C124</color>
+    <color name="turuncu">#F28C0F</color>
+    <color name="kmavi">#355C7D</color>
+    <color name="lila">#C17B9E</color>
+    <color name="mavi">#40A6BE</color>
+    <color name="koyulila">#AF6468</color>
+    <color name="sari">#FFD300</color>
+    <color name="aturuncu">#FE5F1B</color>
+    <color name="mavi1">#33ABB1</color>
+    <color name="sari1">#EFAB1F</color>
+    <color name="lacivert">#103754</color>
+    <color name="kiremit">#D53D13</color>
+    <color name="mavi2">#79A7A8</color>
+    <color name="pembe2">#D6346B</color>
+    <color name="yesil2">#0C8B3A</color>
+    <color name="kiremit1">#BF6D65</color>
+    <color name="mavi3">#1871D6</color>
+
+
+
+
+</resources>

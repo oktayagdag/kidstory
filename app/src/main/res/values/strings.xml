@@ -1,0 +1,58 @@
+<resources>
+
+    <string name="app_name">Masal Diyarı</string>
+
+    <string-array name="story1">
+        <item name="storyName">Aslan İle Fare</item>
+    </string-array>
+    <string-array name="story2">
+        <item name="storyName">Kibirli Gül</item>
+    </string-array>
+    <string-array name="story3">
+        <item name="storyName">Bencil Dev</item>
+    </string-array>
+    <string-array name="story4">
+        <item name="storyName">Kızıl Tavuk</item>
+    </string-array>
+    <string-array name="story5">
+        <item name="storyName">Kırmızı Başlıklı Kız</item>
+    </string-array>
+    <string-array name="story6">
+        <item name="storyName">Sihirli İnek</item>
+    </string-array>
+    <string-array name="story7">
+        <item name="storyName">Minik Ayı Yavrusu</item>
+    </string-array>
+    <string-array name="story8">
+        <item name="storyName">Ali Baba ve Kırk Haramiler</item>
+    </string-array>
+    <string-array name="story9">
+        <item name="storyName">Kurabiye Adam</item>
+    </string-array>
+    <string-array name="story10">
+        <item name="storyName">Çirkin Ördek Yavrusu</item>
+    </string-array>
+    <string-array name="story11">
+        <item name="storyName">Hasta Fok Balığı</item>
+    </string-array>
+    <string-array name="story12">
+        <item name="storyName">Değirmencinin Oğlu</item>
+    </string-array>
+    <string-array name="story13">
+        <item name="storyName">Tuzlu Deniz</item>
+    </string-array>
+    <string-array name="story14">
+        <item name="storyName">Goldilocks ve Üç Ayı</item>
+    </string-array>
+    <string-array name="story15">
+        <item name="storyName">Gül Prenses ve Altın Kuş</item>
+    </string-array>
+    <string-array name="story16">
+        <item name="storyName">Fil ve Karınca</item>
+    </string-array>
+    <string-array name="story17">
+        <item name="storyName">Karınca ile Ağustos Böceği</item>
+    </string-array>
+
+
+</resources>
